@@ -1,4 +1,4 @@
-# Gpxies.ru (now on React!)
+# Gpxies.ru (now on :rocket:React!)
 Gpxies.ru: create, store &amp; share GPS tracks. 
 
 Back-end: https://github.com/nikolai-minkevich/gpxies_backend \
